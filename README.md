@@ -1,6 +1,6 @@
-# Primeiro-Desafio---Tecnologia-Java
+# Primeiro-Desafio-Tecnologia-Java
 
-# WellDone
+# Wink
 - Bruno Ramos da Costa (RM551942)
 - Guilherme Faria de Aguiar (RM551374)
 - Henrique Roncon Pereira (RM99161)
